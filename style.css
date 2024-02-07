@@ -1,0 +1,127 @@
+body{
+    background-color: gold;
+}
+
+summary{
+    font-size: 24px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+h2{
+    text-align: center;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+p{
+    font-size: 20px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+article{
+    text-align: center;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.header{
+    width: 100%;
+    background-color: black;
+    color: gold;
+    text-align: center;
+    position: sticky;
+}
+
+center{
+    border-color: black;
+}
+
+label{
+    font-size: 20px;
+}
+
+input{
+    width: 50%;
+    color: black;
+    font-size: 20px;
+    margin: 0 auto;
+    padding: 12px 20px;
+    border-color: black;
+   
+}
+
+input.message{
+    padding: 50px 20px;
+}
+
+a{
+    color: inherit;
+    font-size: 24px;
+    text-decoration: none;
+    width: 100%;
+    padding: 20px;
+}
+
+a.current {
+    background-color: white;
+    color: black;
+    padding-bottom: 1px;
+    padding-top: 1px;
+}
+
+.footer{
+    text-align: center;
+    position: sticky;
+    background-color: black;
+    color: gold;
+    bottom: 0;
+    width: 100%;
+    position: relative;
+}
+
+div.info{
+    border-color: black;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    margin: 100px;
+    font-size: 20px;
+}
+
+div.work{
+    border-color: black;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    margin: 100px;
+    font-size: 20px;
+    
+}
+
+div.education{
+    background-color: gold;
+    margin: 100px;
+}
+
+div.class{
+    background-color: gold;
+    margin: 100px;
+}
+
+details.projects{
+    background-color: black;
+    color: white;
+    padding: 50px;
+    margin: 100px;
+    font-size: 20px;
+    text-align: center;
+}
